@@ -1,0 +1,26 @@
+[
+  {
+    "number": "RMO101",
+    "type": "Single",
+    "accessiblity": true,
+    "price": "1",
+    "features": ["WiFi","Safe"],
+    "description":"Please enter a description for this room"
+    
+  },
+   {
+     "number": "RMO102",
+     "type": "Twin",
+     "accessiblity": false,
+     "price": "999",
+     "features": ["WiFi","Safe","Views"]
+   },
+   {
+    "number": "RMO103",
+    "type": "Double",
+    "accessiblity": false,
+    "price": "40",
+    "features": ["WiFi", "TV", "Radio", "Refreshments", "Safe", "Views"]
+  }
+
+]

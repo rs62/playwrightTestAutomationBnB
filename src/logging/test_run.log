@@ -1,0 +1,980 @@
+2025-01-26T22:20:27Z [info]: Test for rooms requires login is started...
+2025-01-26T22:20:27Z [info]: Test for messages requires login is started...
+2025-01-26T22:20:27Z [info]: Test for branding requires login is started...
+2025-01-26T22:20:27Z [info]: Test for report requires login is started...
+2025-01-26T22:20:30Z [info]: Test for rooms page requires login  is completed
+2025-01-26T22:20:31Z [info]: Filled username
+2025-01-26T22:20:31Z [info]: Filled password
+2025-01-26T22:20:31Z [info]: Clicked login button
+2025-01-26T22:20:31Z [info]: Test for Rooms Page header row text is started...
+2025-01-26T22:20:31Z [info]: Filled username
+2025-01-26T22:20:31Z [info]: Filled password
+2025-01-26T22:20:31Z [info]: User is Logged in
+2025-01-26T22:20:31Z [info]: Test for branding page requires login  is completed
+2025-01-26T22:20:31Z [info]: Header row text verified in rooms page
+2025-01-26T22:20:31Z [info]: Test for Rooms Page header row text is completed
+2025-01-26T22:20:31Z [info]: Clicked login button
+2025-01-26T22:20:31Z [info]: Test for Room Creation is started...
+2025-01-26T22:20:31Z [info]: Test for messages page requires login  is completed
+2025-01-26T22:20:31Z [info]: Test for report page requires login  is completed
+2025-01-26T22:20:32Z [info]: Test for contact form submission is started...
+2025-01-26T22:20:32Z [info]: Filled room number
+2025-01-26T22:20:32Z [info]: Selected 'Single' in room type
+2025-01-26T22:20:32Z [info]: Selected 'true' in room accessibility
+2025-01-26T22:20:32Z [info]: Filled room price
+2025-01-26T22:20:32Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:20:32Z [info]: Value is set for checkbox Safe
+2025-01-26T22:20:32Z [info]: Checked room features checkbox
+2025-01-26T22:20:32Z [info]: Clicked create button
+2025-01-26T22:20:33Z [info]: Room data verified
+2025-01-26T22:20:33Z [info]: Test for Room Creation is completed
+2025-01-26T22:20:33Z [info]: Test for rooms requires login is started...
+2025-01-26T22:20:34Z [info]: Filled username
+2025-01-26T22:20:34Z [info]: Filled password
+2025-01-26T22:20:34Z [info]: Clicked login button
+2025-01-26T22:20:34Z [info]: Test for Room Creation is started...
+2025-01-26T22:20:35Z [info]: Filled room number
+2025-01-26T22:20:35Z [info]: Selected 'Family' in room type
+2025-01-26T22:20:36Z [info]: Selected 'false' in room accessibility
+2025-01-26T22:20:36Z [info]: Filled room price
+2025-01-26T22:20:36Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:20:36Z [info]: Value is set for checkbox Safe
+2025-01-26T22:20:36Z [info]: Value is set for checkbox Views
+2025-01-26T22:20:36Z [info]: Checked room features checkbox
+2025-01-26T22:20:36Z [info]: Clicked create button
+2025-01-26T22:20:36Z [info]: Filled contact name
+2025-01-26T22:20:36Z [info]: Filled contact email
+2025-01-26T22:20:36Z [info]: Filled contact phone
+2025-01-26T22:20:37Z [info]: Filled contact phone
+2025-01-26T22:20:37Z [info]: Filled contact description
+2025-01-26T22:20:37Z [info]: Clicked submit button
+2025-01-26T22:20:37Z [info]: Filled username
+2025-01-26T22:20:37Z [info]: Filled password
+2025-01-26T22:20:37Z [info]: Test for contact form submission is completed
+2025-01-26T22:20:37Z [info]: Filled username
+2025-01-26T22:20:37Z [info]: Clicked login button
+2025-01-26T22:20:37Z [info]: Filled password
+2025-01-26T22:20:37Z [info]: Clicked login button
+2025-01-26T22:20:37Z [info]: Test for Room Creation is started...
+2025-01-26T22:20:37Z [info]: Test for rooms page requires login  is completed
+2025-01-26T22:20:37Z [info]: Filled room number
+2025-01-26T22:20:37Z [info]: Selected 'Single' in room type
+2025-01-26T22:20:37Z [info]: Selected 'false' in room accessibility
+2025-01-26T22:20:37Z [info]: Filled room price
+2025-01-26T22:20:37Z [info]: Checked room features checkbox
+2025-01-26T22:20:37Z [info]: Filled room number
+2025-01-26T22:20:37Z [info]: room description verified in home page
+2025-01-26T22:20:37Z [info]: Selected 'Suite' in room type
+2025-01-26T22:20:38Z [info]: Clicked create button
+2025-01-26T22:20:38Z [info]: Selected 'false' in room accessibility
+2025-01-26T22:20:38Z [info]: room type verified in home page
+2025-01-26T22:20:38Z [info]: Filled room price
+2025-01-26T22:20:38Z [info]: room accessibility verified in home page
+2025-01-26T22:20:38Z [info]: Room data verified
+2025-01-26T22:20:38Z [info]: room features verified in home page
+2025-01-26T22:20:38Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:20:38Z [info]: Value is set for checkbox Safe
+2025-01-26T22:20:38Z [info]: Test for report requires login is started...
+2025-01-26T22:20:38Z [info]: Value is set for checkbox Views
+2025-01-26T22:20:38Z [info]: Checked room features checkbox
+2025-01-26T22:20:38Z [info]: Navigated to room detail page
+2025-01-26T22:20:38Z [info]: Clicked create button
+2025-01-26T22:20:38Z [info]: Filled username
+2025-01-26T22:20:38Z [info]: Filled password
+2025-01-26T22:20:38Z [info]: Clicked login button
+2025-01-26T22:20:38Z [info]: Test for message in admin inbox is started...
+2025-01-26T22:20:38Z [info]: Booking data verified
+2025-01-26T22:20:39Z [info]: Navigated to message page
+2025-01-26T22:20:39Z [info]: Test for report page requires login  is completed
+2025-01-26T22:20:39Z [info]: Clicked message row
+2025-01-26T22:20:39Z [info]: Filled username
+2025-01-26T22:20:39Z [info]: Filled password
+2025-01-26T22:20:39Z [info]: Clicked close message button
+2025-01-26T22:20:39Z [info]: Clicked login button
+2025-01-26T22:20:39Z [info]: Test for Room Detail Update is started...
+2025-01-26T22:20:39Z [info]: Clicked delete message
+2025-01-26T22:20:39Z [info]: Test for message in admin inbox is completed
+2025-01-26T22:20:39Z [info]: Navigated to room detail page
+2025-01-26T22:20:39Z [info]: Test for branding requires login is started...
+2025-01-26T22:20:40Z [info]: Clicked edit button
+2025-01-26T22:20:40Z [info]: Filled room number
+2025-01-26T22:20:40Z [info]: Selected 'Family' in room type
+2025-01-26T22:20:40Z [info]: Selected 'true' in room accessibility
+2025-01-26T22:20:40Z [info]: Filled room price
+2025-01-26T22:20:40Z [info]: Filled username
+2025-01-26T22:20:40Z [info]: Filled password
+2025-01-26T22:20:40Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:20:40Z [info]: Clicked login button
+2025-01-26T22:20:40Z [info]: Value is set for checkbox Safe
+2025-01-26T22:20:40Z [info]: Value is set for checkbox Refreshments
+2025-01-26T22:20:40Z [info]: Test for branding page requires login  is completed
+2025-01-26T22:20:40Z [info]: Value is set for checkbox Views
+2025-01-26T22:20:40Z [info]: Value is set for checkbox Radio
+2025-01-26T22:20:40Z [info]: Value is set for checkbox TV
+2025-01-26T22:20:40Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:20:40Z [info]: Clicked delete room
+2025-01-26T22:20:40Z [info]: Value is set for checkbox Safe
+2025-01-26T22:20:40Z [info]: Checked room features checkbox
+2025-01-26T22:20:40Z [info]: Filled room description
+2025-01-26T22:20:40Z [info]: Filled room image url
+2025-01-26T22:20:41Z [info]: Clicked update button
+2025-01-26T22:20:41Z [info]: Delete room verified
+2025-01-26T22:20:41Z [info]: Room data verified
+2025-01-26T22:20:41Z [info]: Test for Room Detail Update is completed
+2025-01-26T22:20:41Z [error]: Error verifying room data: Error: [31mTimed out 5000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoHaveText[2m([22m[32mexpected[39m[2m)[22m
+
+Locator: locator('div.row.detail').filter({ hasText: 'RMO104' })
+Expected string: [32m"RMO104·Family·false·100.0·WiFi, Safe, Views"[39m
+Received: <element(s) not found>
+Call log:
+[2m  - expect.toHaveText with timeout 5000ms[22m
+[2m  - waiting for locator('div.row.detail').filter({ hasText: 'RMO104' })[22m
+
+2025-01-26T22:20:41Z [info]: Filled username
+2025-01-26T22:20:41Z [info]: Filled password
+2025-01-26T22:20:42Z [info]: Clicked login button
+2025-01-26T22:20:42Z [info]: Test for Rooms Page header row text is started...
+2025-01-26T22:20:42Z [info]: User is Logged in
+2025-01-26T22:20:42Z [info]: Header row text verified in rooms page
+2025-01-26T22:20:42Z [info]: Test for Rooms Page header row text is completed
+2025-01-26T22:20:42Z [info]: Filled username
+2025-01-26T22:20:42Z [info]: Filled password
+2025-01-26T22:20:42Z [info]: Clicked login button
+2025-01-26T22:20:42Z [info]: Test for Room Deletion is started...
+2025-01-26T22:20:42Z [info]: Test for messages requires login is started...
+2025-01-26T22:20:42Z [info]: Clicked delete room
+2025-01-26T22:20:42Z [info]: Delete room verified
+2025-01-26T22:20:42Z [info]: Test for Room Deletion is completed
+2025-01-26T22:20:43Z [error]: Error verifying room data: Error: [31mTimed out 5000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoHaveText[2m([22m[32mexpected[39m[2m)[22m
+
+Locator: locator('div.row.detail').filter({ hasText: 'RMO105' })
+Expected string: [32m"RMO105·Suite·false·1000·WiFi, Safe, Views"[39m
+Received: <element(s) not found>
+Call log:
+[2m  - expect.toHaveText with timeout 5000ms[22m
+[2m  - waiting for locator('div.row.detail').filter({ hasText: 'RMO105' })[22m
+
+2025-01-26T22:20:43Z [info]: Test for messages page requires login  is completed
+2025-01-26T22:20:44Z [info]: Filled username
+2025-01-26T22:20:44Z [info]: Filled password
+2025-01-26T22:20:44Z [info]: Filled username
+2025-01-26T22:20:44Z [info]: Filled password
+2025-01-26T22:20:44Z [info]: Clicked login button
+2025-01-26T22:20:44Z [info]: Test for Room Creation is started...
+2025-01-26T22:20:44Z [info]: Clicked login button
+2025-01-26T22:20:44Z [info]: Test for Room Creation is started...
+2025-01-26T22:20:44Z [info]: Filled room number
+2025-01-26T22:20:44Z [info]: Selected 'Suite' in room type
+2025-01-26T22:20:44Z [info]: Filled room number
+2025-01-26T22:20:44Z [info]: Selected 'false' in room accessibility
+2025-01-26T22:20:44Z [info]: Selected 'Twin' in room type
+2025-01-26T22:20:44Z [info]: Selected 'false' in room accessibility
+2025-01-26T22:20:44Z [info]: Filled room price
+2025-01-26T22:20:44Z [info]: Filled room price
+2025-01-26T22:20:45Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:20:45Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:20:45Z [info]: Value is set for checkbox Safe
+2025-01-26T22:20:45Z [info]: Value is set for checkbox Views
+2025-01-26T22:20:45Z [info]: Checked room features checkbox
+2025-01-26T22:20:45Z [info]: Clicked create button
+2025-01-26T22:20:45Z [info]: Value is set for checkbox Safe
+2025-01-26T22:20:45Z [info]: Room data verified
+2025-01-26T22:20:45Z [info]: Test for Room Creation is completed
+2025-01-26T22:20:45Z [info]: Value is set for checkbox Views
+2025-01-26T22:20:45Z [info]: Checked room features checkbox
+2025-01-26T22:20:45Z [info]: Clicked create button
+2025-01-26T22:20:45Z [info]: Filled username
+2025-01-26T22:20:46Z [info]: Filled username
+2025-01-26T22:20:46Z [info]: Filled password
+2025-01-26T22:20:46Z [info]: Filled password
+2025-01-26T22:20:46Z [info]: Clicked login button
+2025-01-26T22:20:46Z [info]: Test for Room Creation is started...
+2025-01-26T22:20:46Z [info]: Clicked login button
+2025-01-26T22:20:46Z [info]: Filled room number
+2025-01-26T22:20:46Z [info]: Selected 'Single' in room type
+2025-01-26T22:20:46Z [info]: Filled room number
+2025-01-26T22:20:46Z [info]: Selected 'true' in room accessibility
+2025-01-26T22:20:46Z [info]: Selected 'Single' in room type
+2025-01-26T22:20:46Z [info]: Filled username
+2025-01-26T22:20:46Z [info]: Filled room price
+2025-01-26T22:20:46Z [info]: Selected 'false' in room accessibility
+2025-01-26T22:20:46Z [info]: Filled password
+2025-01-26T22:20:47Z [info]: Filled room price
+2025-01-26T22:20:47Z [info]: Checked room features checkbox
+2025-01-26T22:20:47Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:20:47Z [info]: Clicked login button
+2025-01-26T22:20:47Z [info]: Test for Room Creation is started...
+2025-01-26T22:20:47Z [info]: Clicked create button
+2025-01-26T22:20:47Z [info]: Value is set for checkbox Safe
+2025-01-26T22:20:47Z [info]: Checked room features checkbox
+2025-01-26T22:20:47Z [info]: room description verified in home page
+2025-01-26T22:20:47Z [info]: room type verified in home page
+2025-01-26T22:20:47Z [info]: Clicked create button
+2025-01-26T22:20:47Z [info]: room accessibility verified in home page
+2025-01-26T22:20:47Z [info]: Room data verified
+2025-01-26T22:20:47Z [info]: room features verified in home page
+2025-01-26T22:20:47Z [info]: Filled room number
+2025-01-26T22:20:47Z [info]: Selected 'Family' in room type
+2025-01-26T22:20:47Z [info]: Room data verified
+2025-01-26T22:20:47Z [info]: Test for Room Creation is completed
+2025-01-26T22:20:47Z [info]: Selected 'false' in room accessibility
+2025-01-26T22:20:47Z [info]: Filled room price
+2025-01-26T22:20:47Z [info]: Navigated to room detail page
+2025-01-26T22:20:48Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:20:48Z [info]: Test for contact form submission is started...
+2025-01-26T22:20:48Z [info]: Value is set for checkbox Safe
+2025-01-26T22:20:48Z [info]: Booking data verified
+2025-01-26T22:20:48Z [info]: Value is set for checkbox Views
+2025-01-26T22:20:48Z [info]: Checked room features checkbox
+2025-01-26T22:20:48Z [info]: Clicked create button
+2025-01-26T22:20:48Z [info]: Filled username
+2025-01-26T22:20:48Z [info]: Filled password
+2025-01-26T22:20:48Z [info]: Clicked login button
+2025-01-26T22:20:48Z [info]: Test for Room Detail Update is started...
+2025-01-26T22:20:49Z [info]: Navigated to room detail page
+2025-01-26T22:20:49Z [info]: Filled contact name
+2025-01-26T22:20:49Z [info]: Filled contact email
+2025-01-26T22:20:49Z [info]: Filled contact phone
+2025-01-26T22:20:49Z [info]: Clicked edit button
+2025-01-26T22:20:49Z [info]: Filled room number
+2025-01-26T22:20:49Z [info]: Filled contact phone
+2025-01-26T22:20:49Z [info]: Selected 'Family' in room type
+2025-01-26T22:20:49Z [info]: Selected 'true' in room accessibility
+2025-01-26T22:20:49Z [info]: Filled contact description
+2025-01-26T22:20:49Z [info]: Filled room price
+2025-01-26T22:20:50Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:20:50Z [info]: Clicked submit button
+2025-01-26T22:20:50Z [info]: Value is set for checkbox Safe
+2025-01-26T22:20:50Z [info]: Value is set for checkbox Refreshments
+2025-01-26T22:20:50Z [info]: room description verified in home page
+2025-01-26T22:20:50Z [info]: Test for contact form submission is completed
+2025-01-26T22:20:50Z [info]: Value is set for checkbox Views
+2025-01-26T22:20:50Z [info]: Value is set for checkbox Radio
+2025-01-26T22:20:50Z [info]: Value is set for checkbox TV
+2025-01-26T22:20:50Z [info]: room type verified in home page
+2025-01-26T22:20:50Z [info]: Filled username
+2025-01-26T22:20:50Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:20:50Z [info]: room accessibility verified in home page
+2025-01-26T22:20:50Z [info]: Value is set for checkbox Safe
+2025-01-26T22:20:50Z [info]: Checked room features checkbox
+2025-01-26T22:20:50Z [info]: room features verified in home page
+2025-01-26T22:20:50Z [info]: Filled password
+2025-01-26T22:20:50Z [info]: Filled room description
+2025-01-26T22:20:50Z [info]: Filled room image url
+2025-01-26T22:20:50Z [info]: Clicked login button
+2025-01-26T22:20:50Z [info]: Clicked update button
+2025-01-26T22:20:50Z [error]: Error verifying room data: Error: [31mTimed out 5000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoHaveText[2m([22m[32mexpected[39m[2m)[22m
+
+Locator: locator('div.row.detail').filter({ hasText: 'RMO105' })
+Expected string: [32m"RMO105·Suite·false·1000·WiFi, Safe, Views"[39m
+Received: <element(s) not found>
+Call log:
+[2m  - expect.toHaveText with timeout 5000ms[22m
+[2m  - waiting for locator('div.row.detail').filter({ hasText: 'RMO105' })[22m
+
+2025-01-26T22:20:51Z [info]: Room data verified
+2025-01-26T22:20:51Z [info]: Test for Room Detail Update is completed
+2025-01-26T22:20:51Z [info]: Clicked delete room
+2025-01-26T22:20:51Z [info]: Delete room verified
+2025-01-26T22:20:52Z [info]: Filled username
+2025-01-26T22:20:52Z [info]: Filled password
+2025-01-26T22:20:52Z [info]: Clicked login button
+2025-01-26T22:20:52Z [info]: Test for message in admin inbox is started...
+2025-01-26T22:20:52Z [info]: Filled username
+2025-01-26T22:20:52Z [info]: Filled password
+2025-01-26T22:20:52Z [info]: Navigated to message page
+2025-01-26T22:20:52Z [info]: Clicked login button
+2025-01-26T22:20:52Z [info]: Test for Room Detail Update is started...
+2025-01-26T22:20:52Z [info]: Clicked message row
+2025-01-26T22:20:52Z [info]: Filled username
+2025-01-26T22:20:53Z [info]: Filled password
+2025-01-26T22:20:53Z [info]: Clicked login button
+2025-01-26T22:20:53Z [info]: Test for Room Deletion is started...
+2025-01-26T22:20:53Z [info]: Navigated to room detail page
+2025-01-26T22:20:53Z [info]: Clicked close message button
+2025-01-26T22:20:53Z [info]: Clicked delete message
+2025-01-26T22:20:53Z [error]: Error verifying room data: Error: [31mTimed out 5000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoHaveText[2m([22m[32mexpected[39m[2m)[22m
+
+Locator: locator('div.row.detail').filter({ hasText: 'RMO104' })
+Expected string: [32m"RMO104·Family·false·100.0·WiFi, Safe, Views"[39m
+Received: <element(s) not found>
+Call log:
+[2m  - expect.toHaveText with timeout 5000ms[22m
+[2m  - waiting for locator('div.row.detail').filter({ hasText: 'RMO104' })[22m
+
+2025-01-26T22:20:53Z [info]: Clicked delete room
+2025-01-26T22:20:53Z [info]: Test for message in admin inbox is completed
+2025-01-26T22:20:53Z [info]: Delete room verified
+2025-01-26T22:20:53Z [info]: Test for Room Deletion is completed
+2025-01-26T22:20:53Z [info]: Clicked edit button
+2025-01-26T22:20:53Z [info]: Filled room number
+2025-01-26T22:20:53Z [info]: Selected 'Family' in room type
+2025-01-26T22:20:53Z [info]: Selected 'true' in room accessibility
+2025-01-26T22:20:53Z [info]: Filled room price
+2025-01-26T22:20:53Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:20:54Z [info]: Value is set for checkbox Safe
+2025-01-26T22:20:54Z [info]: Value is set for checkbox Refreshments
+2025-01-26T22:20:54Z [info]: Value is set for checkbox Views
+2025-01-26T22:20:54Z [info]: Value is set for checkbox Radio
+2025-01-26T22:20:54Z [info]: Value is set for checkbox TV
+2025-01-26T22:20:54Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:20:54Z [info]: Value is set for checkbox Safe
+2025-01-26T22:20:54Z [info]: Checked room features checkbox
+2025-01-26T22:20:54Z [info]: Filled room description
+2025-01-26T22:20:54Z [info]: Filled room image url
+2025-01-26T22:20:54Z [info]: Filled username
+2025-01-26T22:20:54Z [info]: Clicked update button
+2025-01-26T22:20:54Z [info]: Filled password
+2025-01-26T22:20:54Z [info]: Clicked login button
+2025-01-26T22:20:54Z [info]: Test for Room Creation is started...
+2025-01-26T22:20:54Z [info]: Room data verified
+2025-01-26T22:20:54Z [info]: Test for Room Detail Update is completed
+2025-01-26T22:20:54Z [info]: Filled room number
+2025-01-26T22:20:54Z [info]: Selected 'Double' in room type
+2025-01-26T22:20:54Z [info]: Selected 'false' in room accessibility
+2025-01-26T22:20:54Z [info]: Filled room price
+2025-01-26T22:20:54Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:20:55Z [info]: Value is set for checkbox TV
+2025-01-26T22:20:55Z [info]: Value is set for checkbox Radio
+2025-01-26T22:20:55Z [info]: Value is set for checkbox Refreshments
+2025-01-26T22:20:55Z [info]: Value is set for checkbox Safe
+2025-01-26T22:20:55Z [info]: Value is set for checkbox Views
+2025-01-26T22:20:55Z [info]: Checked room features checkbox
+2025-01-26T22:20:55Z [info]: Clicked create button
+2025-01-26T22:20:55Z [info]: Room data verified
+2025-01-26T22:20:55Z [info]: Test for Room Creation is completed
+2025-01-26T22:20:55Z [info]: Filled username
+2025-01-26T22:20:55Z [info]: Filled password
+2025-01-26T22:20:55Z [info]: Clicked login button
+2025-01-26T22:20:55Z [info]: Test for Room Deletion is started...
+2025-01-26T22:20:56Z [info]: room description verified in home page
+2025-01-26T22:20:56Z [info]: room type verified in home page
+2025-01-26T22:20:56Z [info]: room accessibility verified in home page
+2025-01-26T22:20:56Z [info]: room features verified in home page
+2025-01-26T22:20:56Z [info]: Clicked delete room
+2025-01-26T22:20:56Z [info]: Delete room verified
+2025-01-26T22:20:56Z [info]: Test for Room Deletion is completed
+2025-01-26T22:20:57Z [info]: Filled username
+2025-01-26T22:20:57Z [info]: Filled password
+2025-01-26T22:20:57Z [info]: Clicked login button
+2025-01-26T22:20:57Z [info]: Test for Room Detail Update is started...
+2025-01-26T22:20:57Z [info]: Navigated to room detail page
+2025-01-26T22:20:57Z [info]: Filled username
+2025-01-26T22:20:57Z [info]: Filled password
+2025-01-26T22:20:57Z [info]: Clicked login button
+2025-01-26T22:20:57Z [info]: Test for Room Creation is started...
+2025-01-26T22:20:57Z [info]: Clicked edit button
+2025-01-26T22:20:57Z [info]: Filled room number
+2025-01-26T22:20:57Z [info]: Filled room number
+2025-01-26T22:20:57Z [info]: Selected 'Family' in room type
+2025-01-26T22:20:57Z [info]: Selected 'Twin' in room type
+2025-01-26T22:20:57Z [info]: Selected 'true' in room accessibility
+2025-01-26T22:20:57Z [info]: Filled room price
+2025-01-26T22:20:57Z [info]: Selected 'false' in room accessibility
+2025-01-26T22:20:58Z [info]: Filled room price
+2025-01-26T22:20:58Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:20:58Z [info]: Value is set for checkbox Safe
+2025-01-26T22:20:58Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:20:58Z [info]: Value is set for checkbox Refreshments
+2025-01-26T22:20:58Z [info]: Value is set for checkbox Safe
+2025-01-26T22:20:58Z [info]: Value is set for checkbox Views
+2025-01-26T22:20:58Z [info]: Value is set for checkbox Radio
+2025-01-26T22:20:58Z [info]: Value is set for checkbox Views
+2025-01-26T22:20:58Z [info]: Checked room features checkbox
+2025-01-26T22:20:58Z [info]: Value is set for checkbox TV
+2025-01-26T22:20:58Z [info]: Clicked create button
+2025-01-26T22:20:58Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:20:58Z [info]: Value is set for checkbox Safe
+2025-01-26T22:20:58Z [info]: Checked room features checkbox
+2025-01-26T22:20:58Z [info]: Filled room description
+2025-01-26T22:20:58Z [info]: Filled room image url
+2025-01-26T22:20:58Z [info]: Room data verified
+2025-01-26T22:20:58Z [info]: Test for Room Creation is completed
+2025-01-26T22:20:58Z [info]: Clicked update button
+2025-01-26T22:20:58Z [info]: Room data verified
+2025-01-26T22:20:58Z [info]: Test for Room Detail Update is completed
+2025-01-26T22:20:59Z [info]: room description verified in home page
+2025-01-26T22:20:59Z [info]: Filled username
+2025-01-26T22:20:59Z [info]: Filled password
+2025-01-26T22:20:59Z [info]: room type verified in home page
+2025-01-26T22:20:59Z [info]: Clicked login button
+2025-01-26T22:20:59Z [info]: Test for Room Deletion is started...
+2025-01-26T22:20:59Z [info]: room accessibility verified in home page
+2025-01-26T22:20:59Z [info]: room features verified in home page
+2025-01-26T22:21:00Z [info]: Clicked delete room
+2025-01-26T22:21:01Z [info]: Delete room verified
+2025-01-26T22:21:01Z [info]: Test for Room Deletion is completed
+2025-01-26T22:21:01Z [info]: Filled username
+2025-01-26T22:21:01Z [info]: Filled password
+2025-01-26T22:21:01Z [info]: Clicked login button
+2025-01-26T22:21:01Z [info]: Test for Room Detail Update is started...
+2025-01-26T22:21:02Z [info]: Navigated to room detail page
+2025-01-26T22:21:03Z [info]: Clicked edit button
+2025-01-26T22:21:03Z [info]: Filled room number
+2025-01-26T22:21:03Z [info]: Selected 'Family' in room type
+2025-01-26T22:21:03Z [info]: Selected 'true' in room accessibility
+2025-01-26T22:21:03Z [info]: Filled room price
+2025-01-26T22:21:03Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:21:03Z [info]: Value is set for checkbox Safe
+2025-01-26T22:21:03Z [info]: Value is set for checkbox Refreshments
+2025-01-26T22:21:03Z [info]: Value is set for checkbox Views
+2025-01-26T22:21:03Z [info]: Value is set for checkbox Radio
+2025-01-26T22:21:03Z [info]: Value is set for checkbox TV
+2025-01-26T22:21:03Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:21:03Z [info]: Value is set for checkbox Safe
+2025-01-26T22:21:03Z [info]: Checked room features checkbox
+2025-01-26T22:21:03Z [info]: Filled room description
+2025-01-26T22:21:03Z [info]: Filled room image url
+2025-01-26T22:21:03Z [info]: Clicked update button
+2025-01-26T22:21:04Z [info]: Room data verified
+2025-01-26T22:21:04Z [info]: Test for Room Detail Update is completed
+2025-01-26T22:21:05Z [info]: Filled username
+2025-01-26T22:21:05Z [info]: Filled password
+2025-01-26T22:21:05Z [info]: Clicked login button
+2025-01-26T22:21:05Z [info]: Test for Room Deletion is started...
+2025-01-26T22:21:06Z [info]: Clicked delete room
+2025-01-26T22:21:06Z [info]: Delete room verified
+2025-01-26T22:21:06Z [info]: Test for Room Deletion is completed
+2025-01-26T22:21:07Z [info]: Filled username
+2025-01-26T22:21:07Z [info]: Filled password
+2025-01-26T22:21:07Z [info]: Clicked login button
+2025-01-26T22:21:07Z [info]: Test for Room Creation is started...
+2025-01-26T22:21:07Z [info]: Filled room number
+2025-01-26T22:21:07Z [info]: Selected 'Double' in room type
+2025-01-26T22:21:07Z [info]: Selected 'false' in room accessibility
+2025-01-26T22:21:07Z [info]: Filled room price
+2025-01-26T22:21:07Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:21:07Z [info]: Value is set for checkbox TV
+2025-01-26T22:21:07Z [info]: Value is set for checkbox Radio
+2025-01-26T22:21:08Z [info]: Value is set for checkbox Refreshments
+2025-01-26T22:21:08Z [info]: Value is set for checkbox Safe
+2025-01-26T22:21:08Z [info]: Value is set for checkbox Views
+2025-01-26T22:21:08Z [info]: Checked room features checkbox
+2025-01-26T22:21:08Z [info]: Clicked create button
+2025-01-26T22:21:08Z [info]: Room data verified
+2025-01-26T22:21:08Z [info]: Test for Room Creation is completed
+2025-01-26T22:21:09Z [info]: room description verified in home page
+2025-01-26T22:21:09Z [info]: room type verified in home page
+2025-01-26T22:21:09Z [info]: room accessibility verified in home page
+2025-01-26T22:21:09Z [info]: room features verified in home page
+2025-01-26T22:21:10Z [info]: Filled username
+2025-01-26T22:21:10Z [info]: Filled password
+2025-01-26T22:21:10Z [info]: Clicked login button
+2025-01-26T22:21:10Z [info]: Test for Room Detail Update is started...
+2025-01-26T22:21:11Z [info]: Navigated to room detail page
+2025-01-26T22:21:11Z [info]: Clicked edit button
+2025-01-26T22:21:11Z [info]: Filled room number
+2025-01-26T22:21:11Z [info]: Selected 'Family' in room type
+2025-01-26T22:21:11Z [info]: Selected 'true' in room accessibility
+2025-01-26T22:21:11Z [info]: Filled room price
+2025-01-26T22:21:11Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:21:12Z [info]: Value is set for checkbox Safe
+2025-01-26T22:21:12Z [info]: Value is set for checkbox Refreshments
+2025-01-26T22:21:12Z [info]: Value is set for checkbox Views
+2025-01-26T22:21:12Z [info]: Value is set for checkbox Radio
+2025-01-26T22:21:12Z [info]: Value is set for checkbox TV
+2025-01-26T22:21:12Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:21:12Z [info]: Value is set for checkbox Safe
+2025-01-26T22:21:12Z [info]: Checked room features checkbox
+2025-01-26T22:21:12Z [info]: Filled room description
+2025-01-26T22:21:12Z [info]: Filled room image url
+2025-01-26T22:21:12Z [info]: Clicked update button
+2025-01-26T22:21:13Z [info]: Room data verified
+2025-01-26T22:21:13Z [info]: Test for Room Detail Update is completed
+2025-01-26T22:21:14Z [info]: Filled username
+2025-01-26T22:21:14Z [info]: Filled password
+2025-01-26T22:21:14Z [info]: Clicked login button
+2025-01-26T22:21:14Z [info]: Test for Room Deletion is started...
+2025-01-26T22:21:14Z [info]: Clicked delete room
+2025-01-26T22:21:14Z [info]: Delete room verified
+2025-01-26T22:21:14Z [info]: Test for Room Deletion is completed
+2025-01-26T22:26:44Z [info]: Test for branding requires login is started...
+2025-01-26T22:26:44Z [info]: Test for report requires login is started...
+2025-01-26T22:26:44Z [info]: Test for messages requires login is started...
+2025-01-26T22:26:44Z [info]: Test for rooms requires login is started...
+2025-01-26T22:26:45Z [info]: Test for rooms page requires login  is completed
+2025-01-26T22:26:46Z [info]: Filled username
+2025-01-26T22:26:46Z [info]: Test for branding page requires login  is completed
+2025-01-26T22:26:46Z [info]: Filled password
+2025-01-26T22:26:46Z [info]: Clicked login button
+2025-01-26T22:26:46Z [info]: Test for Rooms Page header row text is started...
+2025-01-26T22:26:46Z [info]: Test for messages page requires login  is completed
+2025-01-26T22:26:46Z [info]: User is Logged in
+2025-01-26T22:26:46Z [info]: Header row text verified in rooms page
+2025-01-26T22:26:46Z [info]: Test for Rooms Page header row text is completed
+2025-01-26T22:26:47Z [info]: Test for contact form submission is started...
+2025-01-26T22:26:47Z [info]: Filled username
+2025-01-26T22:26:47Z [info]: Filled password
+2025-01-26T22:26:47Z [info]: Clicked login button
+2025-01-26T22:26:47Z [info]: Test for Room Creation is started...
+2025-01-26T22:26:47Z [info]: Filled room number
+2025-01-26T22:26:47Z [info]: Selected 'Single' in room type
+2025-01-26T22:26:47Z [info]: Selected 'true' in room accessibility
+2025-01-26T22:26:47Z [info]: Filled room price
+2025-01-26T22:26:47Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:26:47Z [info]: Value is set for checkbox Safe
+2025-01-26T22:26:47Z [info]: Checked room features checkbox
+2025-01-26T22:26:47Z [info]: Test for report page requires login  is completed
+2025-01-26T22:26:47Z [info]: Clicked create button
+2025-01-26T22:26:47Z [info]: Room data verified
+2025-01-26T22:26:47Z [info]: Test for Room Creation is completed
+2025-01-26T22:26:47Z [info]: Filled username
+2025-01-26T22:26:47Z [info]: Filled password
+2025-01-26T22:26:48Z [info]: Clicked login button
+2025-01-26T22:26:48Z [info]: Filled username
+2025-01-26T22:26:48Z [info]: Filled password
+2025-01-26T22:26:48Z [info]: Filled username
+2025-01-26T22:26:48Z [info]: Filled password
+2025-01-26T22:26:48Z [info]: Clicked login button
+2025-01-26T22:26:48Z [info]: Test for Room Creation is started...
+2025-01-26T22:26:48Z [info]: Filled contact name
+2025-01-26T22:26:48Z [info]: Clicked login button
+2025-01-26T22:26:48Z [info]: Test for Room Creation is started...
+2025-01-26T22:26:48Z [info]: Filled contact email
+2025-01-26T22:26:48Z [info]: Filled room number
+2025-01-26T22:26:48Z [info]: Filled contact phone
+2025-01-26T22:26:48Z [info]: Selected 'Family' in room type
+2025-01-26T22:26:48Z [info]: Selected 'false' in room accessibility
+2025-01-26T22:26:48Z [info]: Filled room number
+2025-01-26T22:26:49Z [info]: Filled contact phone
+2025-01-26T22:26:49Z [info]: Selected 'Single' in room type
+2025-01-26T22:26:49Z [info]: Filled room price
+2025-01-26T22:26:49Z [info]: Filled room number
+2025-01-26T22:26:49Z [info]: Filled contact description
+2025-01-26T22:26:49Z [info]: Selected 'false' in room accessibility
+2025-01-26T22:26:49Z [info]: Selected 'Suite' in room type
+2025-01-26T22:26:49Z [info]: room description verified in home page
+2025-01-26T22:26:49Z [info]: Filled room price
+2025-01-26T22:26:49Z [info]: Checked room features checkbox
+2025-01-26T22:26:49Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:26:49Z [info]: room type verified in home page
+2025-01-26T22:26:49Z [info]: Selected 'false' in room accessibility
+2025-01-26T22:26:49Z [info]: room accessibility verified in home page
+2025-01-26T22:26:49Z [info]: Clicked submit button
+2025-01-26T22:26:49Z [info]: room features verified in home page
+2025-01-26T22:26:49Z [info]: Value is set for checkbox Safe
+2025-01-26T22:26:49Z [info]: Filled room price
+2025-01-26T22:26:49Z [info]: Test for contact form submission is completed
+2025-01-26T22:26:49Z [info]: Clicked create button
+2025-01-26T22:26:49Z [info]: Value is set for checkbox Views
+2025-01-26T22:26:49Z [info]: Checked room features checkbox
+2025-01-26T22:26:49Z [info]: Room data verified
+2025-01-26T22:26:49Z [info]: Clicked create button
+2025-01-26T22:26:49Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:26:50Z [info]: Value is set for checkbox Safe
+2025-01-26T22:26:50Z [info]: Value is set for checkbox Views
+2025-01-26T22:26:50Z [info]: Checked room features checkbox
+2025-01-26T22:26:50Z [info]: Navigated to room detail page
+2025-01-26T22:26:50Z [info]: Clicked create button
+2025-01-26T22:26:50Z [info]: Test for rooms requires login is started...
+2025-01-26T22:26:50Z [info]: Filled username
+2025-01-26T22:26:50Z [info]: Filled password
+2025-01-26T22:26:51Z [info]: Clicked login button
+2025-01-26T22:26:51Z [info]: Test for message in admin inbox is started...
+2025-01-26T22:26:51Z [info]: Booking data verified
+2025-01-26T22:26:51Z [info]: Filled username
+2025-01-26T22:26:51Z [info]: Filled password
+2025-01-26T22:26:51Z [info]: Clicked login button
+2025-01-26T22:26:51Z [info]: Test for Room Detail Update is started...
+2025-01-26T22:26:51Z [info]: Navigated to message page
+2025-01-26T22:26:51Z [info]: Navigated to room detail page
+2025-01-26T22:26:51Z [info]: Clicked message row
+2025-01-26T22:26:52Z [info]: Test for rooms page requires login  is completed
+2025-01-26T22:26:52Z [info]: Clicked close message button
+2025-01-26T22:26:52Z [info]: Clicked edit button
+2025-01-26T22:26:52Z [info]: Filled room number
+2025-01-26T22:26:52Z [info]: Test for report requires login is started...
+2025-01-26T22:26:52Z [info]: Selected 'Family' in room type
+2025-01-26T22:26:52Z [info]: Selected 'true' in room accessibility
+2025-01-26T22:26:52Z [info]: Clicked delete message
+2025-01-26T22:26:52Z [info]: Filled room price
+2025-01-26T22:26:52Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:26:52Z [info]: Test for message in admin inbox is completed
+2025-01-26T22:26:52Z [info]: Filled username
+2025-01-26T22:26:52Z [info]: Filled password
+2025-01-26T22:26:52Z [info]: Value is set for checkbox Safe
+2025-01-26T22:26:52Z [info]: Value is set for checkbox Refreshments
+2025-01-26T22:26:52Z [info]: Value is set for checkbox Views
+2025-01-26T22:26:52Z [info]: Clicked login button
+2025-01-26T22:26:52Z [info]: Value is set for checkbox Radio
+2025-01-26T22:26:52Z [info]: Value is set for checkbox TV
+2025-01-26T22:26:52Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:26:53Z [info]: Value is set for checkbox Safe
+2025-01-26T22:26:53Z [info]: Checked room features checkbox
+2025-01-26T22:26:53Z [info]: Filled room description
+2025-01-26T22:26:53Z [info]: Clicked delete room
+2025-01-26T22:26:53Z [info]: Filled room image url
+2025-01-26T22:26:53Z [info]: Clicked update button
+2025-01-26T22:26:53Z [info]: Room data verified
+2025-01-26T22:26:53Z [info]: Test for Room Detail Update is completed
+2025-01-26T22:26:53Z [info]: Delete room verified
+2025-01-26T22:26:53Z [info]: Test for report page requires login  is completed
+2025-01-26T22:26:54Z [info]: Filled username
+2025-01-26T22:26:54Z [info]: Filled password
+2025-01-26T22:26:54Z [error]: Error verifying room data: Error: [31mTimed out 5000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoHaveText[2m([22m[32mexpected[39m[2m)[22m
+
+Locator: locator('div.row.detail').filter({ hasText: 'RMO104' })
+Expected string: [32m"RMO104·Family·false·100.0·WiFi, Safe, Views"[39m
+Received: <element(s) not found>
+Call log:
+[2m  - expect.toHaveText with timeout 5000ms[22m
+[2m  - waiting for locator('div.row.detail').filter({ hasText: 'RMO104' })[22m
+
+2025-01-26T22:26:55Z [info]: Clicked login button
+2025-01-26T22:26:55Z [info]: Test for Room Deletion is started...
+2025-01-26T22:26:55Z [info]: Test for branding requires login is started...
+2025-01-26T22:26:55Z [error]: Error verifying room data: Error: [31mTimed out 5000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoHaveText[2m([22m[32mexpected[39m[2m)[22m
+
+Locator: locator('div.row.detail').filter({ hasText: 'RMO105' })
+Expected string: [32m"RMO105·Suite·false·1000·WiFi, Safe, Views"[39m
+Received: <element(s) not found>
+Call log:
+[2m  - expect.toHaveText with timeout 5000ms[22m
+[2m  - waiting for locator('div.row.detail').filter({ hasText: 'RMO105' })[22m
+
+2025-01-26T22:26:55Z [info]: Filled username
+2025-01-26T22:26:55Z [info]: Clicked delete room
+2025-01-26T22:26:55Z [info]: Filled password
+2025-01-26T22:26:55Z [info]: Delete room verified
+2025-01-26T22:26:55Z [info]: Test for Room Deletion is completed
+2025-01-26T22:26:55Z [info]: Clicked login button
+2025-01-26T22:26:55Z [info]: Test for Rooms Page header row text is started...
+2025-01-26T22:26:55Z [info]: User is Logged in
+2025-01-26T22:26:55Z [info]: Header row text verified in rooms page
+2025-01-26T22:26:55Z [info]: Test for Rooms Page header row text is completed
+2025-01-26T22:26:56Z [info]: Test for messages requires login is started...
+2025-01-26T22:26:57Z [info]: Filled username
+2025-01-26T22:26:57Z [info]: Filled password
+2025-01-26T22:26:57Z [info]: Clicked login button
+2025-01-26T22:26:57Z [info]: Test for Room Creation is started...
+2025-01-26T22:26:57Z [info]: Filled room number
+2025-01-26T22:26:57Z [info]: Selected 'Twin' in room type
+2025-01-26T22:26:57Z [info]: Selected 'false' in room accessibility
+2025-01-26T22:26:57Z [info]: Filled room price
+2025-01-26T22:26:57Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:26:57Z [info]: Value is set for checkbox Safe
+2025-01-26T22:26:57Z [info]: Value is set for checkbox Views
+2025-01-26T22:26:57Z [info]: Checked room features checkbox
+2025-01-26T22:26:57Z [info]: Clicked create button
+2025-01-26T22:26:57Z [info]: Room data verified
+2025-01-26T22:26:57Z [info]: Test for Room Creation is completed
+2025-01-26T22:26:58Z [info]: Test for branding page requires login  is completed
+2025-01-26T22:26:59Z [info]: room description verified in home page
+2025-01-26T22:26:59Z [info]: room type verified in home page
+2025-01-26T22:26:59Z [info]: room accessibility verified in home page
+2025-01-26T22:26:59Z [info]: room features verified in home page
+2025-01-26T22:27:00Z [info]: Filled username
+2025-01-26T22:27:00Z [info]: Filled password
+2025-01-26T22:27:00Z [info]: Clicked login button
+2025-01-26T22:27:00Z [info]: Test for Room Detail Update is started...
+2025-01-26T22:27:00Z [info]: Navigated to room detail page
+2025-01-26T22:27:01Z [info]: Clicked edit button
+2025-01-26T22:27:01Z [info]: Filled room number
+2025-01-26T22:27:01Z [info]: Selected 'Family' in room type
+2025-01-26T22:27:01Z [info]: Selected 'true' in room accessibility
+2025-01-26T22:27:01Z [info]: Filled room price
+2025-01-26T22:27:01Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:27:01Z [info]: Value is set for checkbox Safe
+2025-01-26T22:27:01Z [info]: Value is set for checkbox Refreshments
+2025-01-26T22:27:01Z [info]: Value is set for checkbox Views
+2025-01-26T22:27:01Z [info]: Value is set for checkbox Radio
+2025-01-26T22:27:01Z [info]: Value is set for checkbox TV
+2025-01-26T22:27:01Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:27:01Z [info]: Value is set for checkbox Safe
+2025-01-26T22:27:01Z [info]: Checked room features checkbox
+2025-01-26T22:27:01Z [info]: Filled room description
+2025-01-26T22:27:01Z [info]: Filled room image url
+2025-01-26T22:27:01Z [info]: Clicked update button
+2025-01-26T22:27:01Z [info]: Room data verified
+2025-01-26T22:27:01Z [info]: Test for Room Detail Update is completed
+2025-01-26T22:27:03Z [info]: Filled username
+2025-01-26T22:27:03Z [info]: Filled password
+2025-01-26T22:27:03Z [info]: Clicked login button
+2025-01-26T22:27:03Z [info]: Test for Room Creation is started...
+2025-01-26T22:27:03Z [info]: Filled username
+2025-01-26T22:27:03Z [info]: Filled room number
+2025-01-26T22:27:03Z [info]: Filled password
+2025-01-26T22:27:04Z [info]: Selected 'Single' in room type
+2025-01-26T22:27:04Z [info]: Clicked login button
+2025-01-26T22:27:04Z [info]: Selected 'true' in room accessibility
+2025-01-26T22:27:04Z [info]: Filled room price
+2025-01-26T22:27:04Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:27:04Z [info]: Filled room number
+2025-01-26T22:27:04Z [info]: Selected 'Single' in room type
+2025-01-26T22:27:04Z [info]: Selected 'false' in room accessibility
+2025-01-26T22:27:04Z [info]: Value is set for checkbox Safe
+2025-01-26T22:27:04Z [info]: Checked room features checkbox
+2025-01-26T22:27:04Z [info]: Test for messages page requires login  is completed
+2025-01-26T22:27:04Z [info]: Filled room price
+2025-01-26T22:27:04Z [info]: Checked room features checkbox
+2025-01-26T22:27:04Z [info]: Clicked create button
+2025-01-26T22:27:04Z [info]: Filled username
+2025-01-26T22:27:04Z [info]: Filled password
+2025-01-26T22:27:04Z [info]: Clicked create button
+2025-01-26T22:27:04Z [info]: Room data verified
+2025-01-26T22:27:04Z [info]: Test for Room Creation is completed
+2025-01-26T22:27:05Z [info]: Clicked login button
+2025-01-26T22:27:05Z [info]: Test for Room Creation is started...
+2025-01-26T22:27:05Z [info]: Room data verified
+2025-01-26T22:27:05Z [info]: Filled room number
+2025-01-26T22:27:05Z [info]: Filled username
+2025-01-26T22:27:05Z [info]: Selected 'Suite' in room type
+2025-01-26T22:27:05Z [info]: Filled password
+2025-01-26T22:27:05Z [info]: Selected 'false' in room accessibility
+2025-01-26T22:27:05Z [info]: Filled room price
+2025-01-26T22:27:05Z [info]: Clicked login button
+2025-01-26T22:27:05Z [info]: Test for Room Creation is started...
+2025-01-26T22:27:05Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:27:05Z [info]: Test for contact form submission is started...
+2025-01-26T22:27:05Z [info]: Value is set for checkbox Safe
+2025-01-26T22:27:05Z [info]: Value is set for checkbox Views
+2025-01-26T22:27:05Z [info]: Checked room features checkbox
+2025-01-26T22:27:05Z [info]: Filled room number
+2025-01-26T22:27:05Z [info]: Clicked create button
+2025-01-26T22:27:05Z [info]: Selected 'Family' in room type
+2025-01-26T22:27:06Z [info]: Selected 'false' in room accessibility
+2025-01-26T22:27:06Z [info]: Filled room price
+2025-01-26T22:27:06Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:27:06Z [info]: Value is set for checkbox Safe
+2025-01-26T22:27:06Z [info]: Value is set for checkbox Views
+2025-01-26T22:27:06Z [info]: Checked room features checkbox
+2025-01-26T22:27:06Z [info]: Clicked create button
+2025-01-26T22:27:07Z [info]: Navigated to room detail page
+2025-01-26T22:27:08Z [info]: Filled username
+2025-01-26T22:27:08Z [info]: Filled password
+2025-01-26T22:27:08Z [info]: Clicked login button
+2025-01-26T22:27:08Z [info]: Test for Room Deletion is started...
+2025-01-26T22:27:08Z [info]: room description verified in home page
+2025-01-26T22:27:08Z [info]: room type verified in home page
+2025-01-26T22:27:08Z [info]: room accessibility verified in home page
+2025-01-26T22:27:08Z [info]: room features verified in home page
+2025-01-26T22:27:08Z [info]: Clicked delete room
+2025-01-26T22:27:08Z [info]: Delete room verified
+2025-01-26T22:27:08Z [info]: Test for Room Deletion is completed
+2025-01-26T22:27:09Z [info]: Filled contact name
+2025-01-26T22:27:09Z [info]: Filled contact email
+2025-01-26T22:27:09Z [info]: Booking data verified
+2025-01-26T22:27:09Z [info]: Filled contact phone
+2025-01-26T22:27:09Z [info]: Filled contact phone
+2025-01-26T22:27:09Z [info]: Filled contact description
+2025-01-26T22:27:09Z [info]: Clicked submit button
+2025-01-26T22:27:10Z [info]: Filled username
+2025-01-26T22:27:10Z [info]: Filled password
+2025-01-26T22:27:10Z [info]: Filled username
+2025-01-26T22:27:10Z [info]: Filled password
+2025-01-26T22:27:10Z [info]: Clicked login button
+2025-01-26T22:27:10Z [info]: Test for Room Detail Update is started...
+2025-01-26T22:27:10Z [info]: Clicked login button
+2025-01-26T22:27:10Z [info]: Test for Room Creation is started...
+2025-01-26T22:27:10Z [info]: Filled room number
+2025-01-26T22:27:10Z [info]: Selected 'Double' in room type
+2025-01-26T22:27:10Z [info]: Selected 'false' in room accessibility
+2025-01-26T22:27:10Z [info]: Filled room price
+2025-01-26T22:27:10Z [info]: Navigated to room detail page
+2025-01-26T22:27:10Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:27:10Z [info]: Value is set for checkbox TV
+2025-01-26T22:27:10Z [info]: Value is set for checkbox Radio
+2025-01-26T22:27:10Z [error]: Error verifying room data: Error: [31mTimed out 5000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoHaveText[2m([22m[32mexpected[39m[2m)[22m
+
+Locator: locator('div.row.detail').filter({ hasText: 'RMO105' })
+Expected string: [32m"RMO105·Suite·false·1000·WiFi, Safe, Views"[39m
+Received: <element(s) not found>
+Call log:
+[2m  - expect.toHaveText with timeout 5000ms[22m
+[2m  - waiting for locator('div.row.detail').filter({ hasText: 'RMO105' })[22m
+
+2025-01-26T22:27:11Z [info]: Value is set for checkbox Refreshments
+2025-01-26T22:27:11Z [info]: Value is set for checkbox Safe
+2025-01-26T22:27:11Z [info]: Value is set for checkbox Views
+2025-01-26T22:27:11Z [info]: Checked room features checkbox
+2025-01-26T22:27:11Z [info]: Clicked create button
+2025-01-26T22:27:11Z [info]: Clicked edit button
+2025-01-26T22:27:11Z [info]: Filled room number
+2025-01-26T22:27:11Z [info]: Room data verified
+2025-01-26T22:27:11Z [info]: Test for Room Creation is completed
+2025-01-26T22:27:11Z [info]: Selected 'Family' in room type
+2025-01-26T22:27:11Z [info]: Selected 'true' in room accessibility
+2025-01-26T22:27:11Z [info]: Filled room price
+2025-01-26T22:27:11Z [error]: Error verifying room data: Error: [31mTimed out 5000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoHaveText[2m([22m[32mexpected[39m[2m)[22m
+
+Locator: locator('div.row.detail').filter({ hasText: 'RMO104' })
+Expected string: [32m"RMO104·Family·false·100.0·WiFi, Safe, Views"[39m
+Received: <element(s) not found>
+Call log:
+[2m  - expect.toHaveText with timeout 5000ms[22m
+[2m  - waiting for locator('div.row.detail').filter({ hasText: 'RMO104' })[22m
+
+2025-01-26T22:27:11Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:27:11Z [info]: Filled username
+2025-01-26T22:27:11Z [info]: Filled password
+2025-01-26T22:27:11Z [info]: Value is set for checkbox Safe
+2025-01-26T22:27:11Z [info]: Value is set for checkbox Refreshments
+2025-01-26T22:27:11Z [info]: Clicked login button
+2025-01-26T22:27:11Z [info]: Value is set for checkbox Views
+2025-01-26T22:27:11Z [info]: Value is set for checkbox Radio
+2025-01-26T22:27:11Z [info]: Value is set for checkbox TV
+2025-01-26T22:27:11Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:27:12Z [info]: Value is set for checkbox Safe
+2025-01-26T22:27:12Z [info]: Checked room features checkbox
+2025-01-26T22:27:12Z [info]: Filled room description
+2025-01-26T22:27:12Z [info]: Filled room image url
+2025-01-26T22:27:12Z [info]: Clicked update button
+2025-01-26T22:27:12Z [info]: Clicked delete room
+2025-01-26T22:27:12Z [info]: Delete room verified
+2025-01-26T22:27:12Z [info]: Room data verified
+2025-01-26T22:27:12Z [info]: Test for Room Detail Update is completed
+2025-01-26T22:27:12Z [info]: Test for contact form submission is completed
+2025-01-26T22:27:12Z [info]: room description verified in home page
+2025-01-26T22:27:12Z [info]: room type verified in home page
+2025-01-26T22:27:12Z [info]: room accessibility verified in home page
+2025-01-26T22:27:13Z [info]: room features verified in home page
+2025-01-26T22:27:14Z [info]: Filled username
+2025-01-26T22:27:14Z [info]: Filled password
+2025-01-26T22:27:14Z [info]: Clicked login button
+2025-01-26T22:27:14Z [info]: Test for Room Detail Update is started...
+2025-01-26T22:27:14Z [info]: Navigated to room detail page
+2025-01-26T22:27:16Z [info]: Clicked edit button
+2025-01-26T22:27:16Z [info]: Filled room number
+2025-01-26T22:27:16Z [info]: Selected 'Family' in room type
+2025-01-26T22:27:16Z [info]: Selected 'true' in room accessibility
+2025-01-26T22:27:16Z [info]: Filled room price
+2025-01-26T22:27:16Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:27:16Z [info]: Value is set for checkbox Safe
+2025-01-26T22:27:16Z [info]: Value is set for checkbox Refreshments
+2025-01-26T22:27:17Z [info]: Value is set for checkbox Views
+2025-01-26T22:27:17Z [info]: Value is set for checkbox Radio
+2025-01-26T22:27:17Z [info]: Value is set for checkbox TV
+2025-01-26T22:27:17Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:27:17Z [info]: Value is set for checkbox Safe
+2025-01-26T22:27:17Z [info]: Checked room features checkbox
+2025-01-26T22:27:17Z [info]: Filled room description
+2025-01-26T22:27:17Z [info]: Filled room image url
+2025-01-26T22:27:17Z [info]: Clicked update button
+2025-01-26T22:27:17Z [info]: Room data verified
+2025-01-26T22:27:17Z [info]: Test for Room Detail Update is completed
+2025-01-26T22:27:18Z [info]: Filled username
+2025-01-26T22:27:18Z [info]: Filled password
+2025-01-26T22:27:18Z [info]: Clicked login button
+2025-01-26T22:27:18Z [info]: Test for Room Deletion is started...
+2025-01-26T22:27:19Z [info]: Clicked delete room
+2025-01-26T22:27:19Z [info]: Delete room verified
+2025-01-26T22:27:19Z [info]: Test for Room Deletion is completed
+2025-01-26T22:27:24Z [info]: Filled username
+2025-01-26T22:27:24Z [info]: Filled password
+2025-01-26T22:27:24Z [info]: Clicked login button
+2025-01-26T22:27:24Z [info]: Test for Room Deletion is started...
+2025-01-26T22:27:24Z [info]: Clicked delete room
+2025-01-26T22:27:25Z [info]: Filled username
+2025-01-26T22:27:25Z [info]: Filled password
+2025-01-26T22:27:25Z [info]: Clicked login button
+2025-01-26T22:27:25Z [info]: Test for message in admin inbox is started...
+2025-01-26T22:27:25Z [info]: Delete room verified
+2025-01-26T22:27:25Z [info]: Test for Room Deletion is completed
+2025-01-26T22:27:25Z [info]: Navigated to message page
+2025-01-26T22:27:25Z [info]: Clicked message row
+2025-01-26T22:27:26Z [info]: Clicked close message button
+2025-01-26T22:27:26Z [info]: Clicked delete message
+2025-01-26T22:27:26Z [info]: Test for message in admin inbox is completed
+2025-01-26T22:27:26Z [info]: Filled username
+2025-01-26T22:27:26Z [info]: Filled password
+2025-01-26T22:27:26Z [info]: Clicked login button
+2025-01-26T22:27:26Z [info]: Test for Room Creation is started...
+2025-01-26T22:27:27Z [info]: Filled room number
+2025-01-26T22:27:27Z [info]: Selected 'Twin' in room type
+2025-01-26T22:27:27Z [info]: Selected 'false' in room accessibility
+2025-01-26T22:27:27Z [info]: Filled room price
+2025-01-26T22:27:27Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:27:27Z [info]: Value is set for checkbox Safe
+2025-01-26T22:27:27Z [info]: Value is set for checkbox Views
+2025-01-26T22:27:27Z [info]: Checked room features checkbox
+2025-01-26T22:27:27Z [info]: Clicked create button
+2025-01-26T22:27:27Z [info]: Room data verified
+2025-01-26T22:27:27Z [info]: Test for Room Creation is completed
+2025-01-26T22:27:29Z [info]: room description verified in home page
+2025-01-26T22:27:29Z [info]: room type verified in home page
+2025-01-26T22:27:29Z [info]: room accessibility verified in home page
+2025-01-26T22:27:29Z [info]: room features verified in home page
+2025-01-26T22:27:30Z [info]: Filled username
+2025-01-26T22:27:31Z [info]: Filled password
+2025-01-26T22:27:31Z [info]: Clicked login button
+2025-01-26T22:27:31Z [info]: Test for Room Detail Update is started...
+2025-01-26T22:27:31Z [info]: Navigated to room detail page
+2025-01-26T22:27:31Z [info]: Clicked edit button
+2025-01-26T22:27:31Z [info]: Filled room number
+2025-01-26T22:27:31Z [info]: Selected 'Family' in room type
+2025-01-26T22:27:31Z [info]: Selected 'true' in room accessibility
+2025-01-26T22:27:31Z [info]: Filled room price
+2025-01-26T22:27:32Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:27:32Z [info]: Value is set for checkbox Safe
+2025-01-26T22:27:32Z [info]: Value is set for checkbox Refreshments
+2025-01-26T22:27:32Z [info]: Value is set for checkbox Views
+2025-01-26T22:27:32Z [info]: Value is set for checkbox Radio
+2025-01-26T22:27:32Z [info]: Value is set for checkbox TV
+2025-01-26T22:27:32Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:27:32Z [info]: Value is set for checkbox Safe
+2025-01-26T22:27:32Z [info]: Checked room features checkbox
+2025-01-26T22:27:32Z [info]: Filled room description
+2025-01-26T22:27:32Z [info]: Filled room image url
+2025-01-26T22:27:32Z [info]: Clicked update button
+2025-01-26T22:27:32Z [info]: Room data verified
+2025-01-26T22:27:32Z [info]: Test for Room Detail Update is completed
+2025-01-26T22:27:34Z [info]: Filled username
+2025-01-26T22:27:34Z [info]: Filled password
+2025-01-26T22:27:34Z [info]: Clicked login button
+2025-01-26T22:27:34Z [info]: Test for Room Deletion is started...
+2025-01-26T22:27:34Z [info]: Clicked delete room
+2025-01-26T22:27:35Z [info]: Delete room verified
+2025-01-26T22:27:35Z [info]: Test for Room Deletion is completed
+2025-01-26T22:27:41Z [info]: Filled username
+2025-01-26T22:27:41Z [info]: Filled password
+2025-01-26T22:27:41Z [info]: Clicked login button
+2025-01-26T22:27:41Z [info]: Test for Room Creation is started...
+2025-01-26T22:27:41Z [info]: Filled room number
+2025-01-26T22:27:41Z [info]: Selected 'Double' in room type
+2025-01-26T22:27:41Z [info]: Selected 'false' in room accessibility
+2025-01-26T22:27:41Z [info]: Filled room price
+2025-01-26T22:27:41Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:27:41Z [info]: Value is set for checkbox TV
+2025-01-26T22:27:41Z [info]: Value is set for checkbox Radio
+2025-01-26T22:27:41Z [info]: Value is set for checkbox Refreshments
+2025-01-26T22:27:41Z [info]: Value is set for checkbox Safe
+2025-01-26T22:27:41Z [info]: Value is set for checkbox Views
+2025-01-26T22:27:41Z [info]: Checked room features checkbox
+2025-01-26T22:27:42Z [info]: Clicked create button
+2025-01-26T22:27:42Z [info]: Room data verified
+2025-01-26T22:27:42Z [info]: Test for Room Creation is completed
+2025-01-26T22:27:43Z [info]: room description verified in home page
+2025-01-26T22:27:43Z [info]: room type verified in home page
+2025-01-26T22:27:43Z [info]: room accessibility verified in home page
+2025-01-26T22:27:43Z [info]: room features verified in home page
+2025-01-26T22:27:44Z [info]: Filled username
+2025-01-26T22:27:44Z [info]: Filled password
+2025-01-26T22:27:44Z [info]: Clicked login button
+2025-01-26T22:27:44Z [info]: Test for Room Detail Update is started...
+2025-01-26T22:27:45Z [info]: Navigated to room detail page
+2025-01-26T22:27:46Z [info]: Clicked edit button
+2025-01-26T22:27:46Z [info]: Filled room number
+2025-01-26T22:27:46Z [info]: Selected 'Family' in room type
+2025-01-26T22:27:46Z [info]: Selected 'true' in room accessibility
+2025-01-26T22:27:46Z [info]: Filled room price
+2025-01-26T22:27:46Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:27:47Z [info]: Value is set for checkbox Safe
+2025-01-26T22:27:47Z [info]: Value is set for checkbox Refreshments
+2025-01-26T22:27:47Z [info]: Value is set for checkbox Views
+2025-01-26T22:27:47Z [info]: Value is set for checkbox Radio
+2025-01-26T22:27:47Z [info]: Value is set for checkbox TV
+2025-01-26T22:27:47Z [info]: Value is set for checkbox WiFi
+2025-01-26T22:27:47Z [info]: Value is set for checkbox Safe
+2025-01-26T22:27:47Z [info]: Checked room features checkbox
+2025-01-26T22:27:47Z [info]: Filled room description
+2025-01-26T22:27:47Z [info]: Filled room image url
+2025-01-26T22:27:47Z [info]: Clicked update button
+2025-01-26T22:27:48Z [info]: Room data verified
+2025-01-26T22:27:48Z [info]: Test for Room Detail Update is completed
+2025-01-26T22:27:54Z [info]: Filled username
+2025-01-26T22:27:54Z [info]: Filled password
+2025-01-26T22:27:54Z [info]: Clicked login button
+2025-01-26T22:27:54Z [info]: Test for Room Deletion is started...
+2025-01-26T22:27:55Z [info]: Clicked delete room
+2025-01-26T22:27:55Z [info]: Delete room verified
+2025-01-26T22:27:55Z [info]: Test for Room Deletion is completed

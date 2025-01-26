@@ -1,0 +1,72 @@
+2025-01-26T22:20:41Z [error]: Error verifying room data: Error: [31mTimed out 5000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoHaveText[2m([22m[32mexpected[39m[2m)[22m
+
+Locator: locator('div.row.detail').filter({ hasText: 'RMO104' })
+Expected string: [32m"RMO104·Family·false·100.0·WiFi, Safe, Views"[39m
+Received: <element(s) not found>
+Call log:
+[2m  - expect.toHaveText with timeout 5000ms[22m
+[2m  - waiting for locator('div.row.detail').filter({ hasText: 'RMO104' })[22m
+
+2025-01-26T22:20:43Z [error]: Error verifying room data: Error: [31mTimed out 5000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoHaveText[2m([22m[32mexpected[39m[2m)[22m
+
+Locator: locator('div.row.detail').filter({ hasText: 'RMO105' })
+Expected string: [32m"RMO105·Suite·false·1000·WiFi, Safe, Views"[39m
+Received: <element(s) not found>
+Call log:
+[2m  - expect.toHaveText with timeout 5000ms[22m
+[2m  - waiting for locator('div.row.detail').filter({ hasText: 'RMO105' })[22m
+
+2025-01-26T22:20:50Z [error]: Error verifying room data: Error: [31mTimed out 5000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoHaveText[2m([22m[32mexpected[39m[2m)[22m
+
+Locator: locator('div.row.detail').filter({ hasText: 'RMO105' })
+Expected string: [32m"RMO105·Suite·false·1000·WiFi, Safe, Views"[39m
+Received: <element(s) not found>
+Call log:
+[2m  - expect.toHaveText with timeout 5000ms[22m
+[2m  - waiting for locator('div.row.detail').filter({ hasText: 'RMO105' })[22m
+
+2025-01-26T22:20:53Z [error]: Error verifying room data: Error: [31mTimed out 5000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoHaveText[2m([22m[32mexpected[39m[2m)[22m
+
+Locator: locator('div.row.detail').filter({ hasText: 'RMO104' })
+Expected string: [32m"RMO104·Family·false·100.0·WiFi, Safe, Views"[39m
+Received: <element(s) not found>
+Call log:
+[2m  - expect.toHaveText with timeout 5000ms[22m
+[2m  - waiting for locator('div.row.detail').filter({ hasText: 'RMO104' })[22m
+
+2025-01-26T22:26:54Z [error]: Error verifying room data: Error: [31mTimed out 5000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoHaveText[2m([22m[32mexpected[39m[2m)[22m
+
+Locator: locator('div.row.detail').filter({ hasText: 'RMO104' })
+Expected string: [32m"RMO104·Family·false·100.0·WiFi, Safe, Views"[39m
+Received: <element(s) not found>
+Call log:
+[2m  - expect.toHaveText with timeout 5000ms[22m
+[2m  - waiting for locator('div.row.detail').filter({ hasText: 'RMO104' })[22m
+
+2025-01-26T22:26:55Z [error]: Error verifying room data: Error: [31mTimed out 5000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoHaveText[2m([22m[32mexpected[39m[2m)[22m
+
+Locator: locator('div.row.detail').filter({ hasText: 'RMO105' })
+Expected string: [32m"RMO105·Suite·false·1000·WiFi, Safe, Views"[39m
+Received: <element(s) not found>
+Call log:
+[2m  - expect.toHaveText with timeout 5000ms[22m
+[2m  - waiting for locator('div.row.detail').filter({ hasText: 'RMO105' })[22m
+
+2025-01-26T22:27:10Z [error]: Error verifying room data: Error: [31mTimed out 5000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoHaveText[2m([22m[32mexpected[39m[2m)[22m
+
+Locator: locator('div.row.detail').filter({ hasText: 'RMO105' })
+Expected string: [32m"RMO105·Suite·false·1000·WiFi, Safe, Views"[39m
+Received: <element(s) not found>
+Call log:
+[2m  - expect.toHaveText with timeout 5000ms[22m
+[2m  - waiting for locator('div.row.detail').filter({ hasText: 'RMO105' })[22m
+
+2025-01-26T22:27:11Z [error]: Error verifying room data: Error: [31mTimed out 5000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoHaveText[2m([22m[32mexpected[39m[2m)[22m
+
+Locator: locator('div.row.detail').filter({ hasText: 'RMO104' })
+Expected string: [32m"RMO104·Family·false·100.0·WiFi, Safe, Views"[39m
+Received: <element(s) not found>
+Call log:
+[2m  - expect.toHaveText with timeout 5000ms[22m
+[2m  - waiting for locator('div.row.detail').filter({ hasText: 'RMO104' })[22m
+
