@@ -23,12 +23,23 @@ Test Post API for booking room
 1. clone project from github repository https://github.com/rs62/playwrightTestAutomationBnB.git
 using command given below:
 
-``` git clone https://github.com/rs62/playwrightTestAutomationBnB.git ```
+``` 
+git clone https://github.com/rs62/playwrightTestAutomationBnB.git
+```
 
 2. install packages using npm using command given below:
    
-``` npm install ```
+```
+npm install
+ ```
 
 3. Use  command given below to run test suite
    
-``` npx playwright test ```
+``` 
+npx playwright test
+```
+4. create .env file in /src/config/ directory  and add the value for keys given below from https://automationintesting.online/ for admin panel
+```
+USER_ID=
+PASSWORD=
+ ```
